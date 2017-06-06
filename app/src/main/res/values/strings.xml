@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageParserAPItest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">resultActivity</string>
+
+    <string name="app_action_bar_title">OCR_API_TEST</string>
+
+    <string name="Tiquet_Sencillo">imagenNítida</string>
+    <string name="Tiquet_Complejo">imagenCompleja</string>
+</resources>
